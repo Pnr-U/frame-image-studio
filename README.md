@@ -2,6 +2,12 @@
 
 An English-language Python desktop application for preparing images for web and e-commerce. A large live canvas and a compact settings panel make framing visible before export.
 
+## Demo
+
+[![Frame Image Studio: live preview and image framing](Frame-Image-Studio-Screenshot.png)](Frame-Image-Studio-Demo.mp4)
+
+**[Watch the 24-second demo](Frame-Image-Studio-Demo.mp4)** — resizing, Fit/Crop framing and JPEG export on Windows.
+
 ## Quick start · Windows
 
 1. Download `frame-image-studio.zip` from this repository’s **Releases** section and extract it to a new folder. Alternatively, use **Code → Download ZIP**.
@@ -55,4 +61,4 @@ No open-source license has been granted for this project. Contact the repository
 
 ## Validation
 
-Checked Python syntax, proportional fitting, custom padding color, crop positioning and zoom, shared preview/export composition, all three output formats and source protection. The graphical desktop interface and Windows launcher still require a trial on Windows.
+Checked Python syntax, proportional fitting, custom padding color, crop positioning and zoom, shared preview/export composition, all three output formats and source protection. Windows manual walkthrough completed on September 19, 2026: launcher startup, opening an image, changing dimensions, Fit/Crop framing and JPEG export. The saved JPEG was opened to confirm the result. See the demo above.
